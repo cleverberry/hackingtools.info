@@ -1,0 +1,7 @@
+body {
+    background: url('../assets/img/bannerspacetheme2-scaled.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
